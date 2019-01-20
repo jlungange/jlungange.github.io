@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #444444;
+    padding: 54px;
+    max-width: 720px;
+    margin: 0 auto;
+    border-left: 6px solid #e2231a;  
+}
+
+img {
+  width: 100%;
+}
+
+header {
+  font-family: Lato;
+  font-weight: 1.5;
+  color: #e2231a;
+}
